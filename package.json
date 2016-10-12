@@ -1,9 +1,10 @@
 {
-    "name": "html-css-tutorial",
-    "version": "1.0.0",
-    "description": "",
-    "main": "src/playground.js",
-    "devDependencies": {
-        "babel-cli": "^6.16.0"
-    }
+  "name": "html-css-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/playground.js",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  }
 }
