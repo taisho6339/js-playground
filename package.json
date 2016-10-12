@@ -1,0 +1,9 @@
+{
+    "name": "html-css-tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/playground.js",
+    "devDependencies": {
+        "babel-cli": "^6.16.0"
+    }
+}
